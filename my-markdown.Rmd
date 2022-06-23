@@ -99,7 +99,8 @@ calpito answer 3
 ***
 
 #### Carlson Casenas
-casenas answer 3
+>In my first two weeks here in the Philippines, I noticed that it rained almost everyday. Aleast, it's been that way since I arrived. During the times that it rained, I never had an umbrella with me. It’s mostly my fault for not checking the weather forecast, but at most times I felt it was unpredictable. One data science topic that I think would be interesting to pursue, is how often we must bring an umbrella with us in the Philippines. We can track the times when it had rained in the Philippines with this website **weather forecast reports** (https://www.pagasa.dost.gov.ph/weather). From there we can create assumptions on when we need to take our umbrellas with us. The statistical methods that I will most likely use are Descriptive, Inferential, Associational methods.
+
 
 ***
 
