@@ -69,14 +69,14 @@ de leon answer 2
 #### Jason Lorenzo
 >Nature communicates through data. Through a comprehensive analysis of these data, the IPCC were able to release [climate change reports](https://www.ipcc.ch/reports/) crucial for deciding the future of our planet and its inhabitants. Now, countries had made differing commitments, striking a balance between their economic, political, and moral standpoint. Hopefully, more and more people start to listen to data and the experts who study them. Nature calls us to be urgent.
 
-```{r}
+```{r fig.align="center", warning=FALSE, echo=FALSE, message=FALSE}
 library(ggplot2)
 df <- read.csv("https://query.data.world/s/am4fth46ih4simnozstddx5qpvmqto", header=TRUE, stringsAsFactors=FALSE);
 ggplot(df, aes(x=X2014)) +
   geom_histogram() +
   ggtitle("CO2 Emissions Per Capita of Countries in 2014") +
   xlab("Countries in Alphabetical Order") +
-  ylab("CO2 (ton) Per Capita")
+  ylab("CO2 (tons) Per Capita")
 ```
 
 ***
@@ -108,7 +108,7 @@ de leon answer 3
 ***
 
 #### Jason Lorenzo
-lorenzo answer 3
+>Books have proven to be a great source of knowledge and entertainment. Unfortunately, the rise of the internet had only decreased its popularity. It doesn’t have to be one or the other; we can also use the internet to promote more reading! Project Interlib will be an app/browser extension recommending users various books based on their interests. This will take advantage of machine learning using statistical tools such as [regression](https://en.wikipedia.org/wiki/Regression_analysis) and [supervised clustering](https://en.wikipedia.org/wiki/K-means_clustering). There will be plenty of data available for the machine learning process as most people use the internet and cookies can be found almost everywhere. Books are also complete with tags, genres, and lots of reviews. This will benefit people of all ages, bridging them to a better and happier version of themselves one book at a time.
 
 ***
 
