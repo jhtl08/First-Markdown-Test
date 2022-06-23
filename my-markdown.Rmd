@@ -1,0 +1,103 @@
+---
+title: "First Markdown Assignment"
+author: "Calpito, Casenas, de Leon, Lorenzo, Oba"
+date: '2022-06-23'
+output: 
+  html_document:
+      code_folding: "show"
+      theme: darkly
+      highlight: tango
+---
+***
+## Question 1: Aside from the reasons mentioned in class, why do we need to study and analyze data?
+
+***
+
+#### Group's Answers: {.tabset .tabset-fade .tabset-pills}
+
+##### Calpito
+calpito answer 1
+
+***
+
+##### Casenas
+casenas answer 1
+
+***
+
+##### de Leon
+de leon answer 1
+
+***
+
+##### Lorenzo
+lorenzo answer 1
+
+***
+
+##### Oba
+oba answer 1
+
+***
+
+## Question 2: Cite at least one instance or application where data science was used and contributed on policymaking, day-to-day decisions, knowing market trends, and scientific researches.
+
+***
+#### Group's Answers: {.tabset .tabset-fade .tabset-pills}
+
+##### Calpito
+calpito answer 2
+
+***
+
+##### Casenas
+casenas answer 2
+
+***
+
+##### de Leon
+de leon answer 2
+
+***
+
+##### Lorenzo
+lorenzo answer 2
+
+***
+
+##### Oba
+oba answer 2
+
+***
+
+## Question 3: Propose at least one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical method you think you will need, and who would benefit this study.
+
+***
+
+#### Group's Answers: {.tabset .tabset-fade .tabset-pills}
+
+##### Calpito
+calpito answer 3
+
+***
+
+##### Casenas
+casenas answer 3
+
+***
+
+##### de Leon
+de leon answer 3
+
+***
+
+##### Lorenzo
+lorenzo answer 3
+
+***
+
+##### Oba
+oba answer 3
+
+***
+
