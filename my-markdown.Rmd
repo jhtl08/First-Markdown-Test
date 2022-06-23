@@ -7,35 +7,41 @@ output:
       code_folding: "show"
       theme: darkly
       highlight: tango
+      center: true
 ---
 ***
 ## Question 1: Aside from the reasons mentioned in class, why do we need to study and analyze data?
 
 ***
 
-#### Group's Answers: {.tabset .tabset-fade .tabset-pills}
+### Group's Answers: {.tabset .tabset-fade .tabset-pills}
 
-##### Calpito
+#### Cymone Calpito
 calpito answer 1
 
 ***
 
-##### Casenas
+#### Carlson Casenas
 casenas answer 1
 
 ***
 
-##### de Leon
+#### Marion de Leon
 de leon answer 1
 
 ***
 
-##### Lorenzo
-lorenzo answer 1
+#### Jason Lorenzo
+>Nature and the cosmos do not speak our language. Nevertheless, they bombard us with lots of data to listen to. All that is left is for us to sort through the mess with the help of data science. Through data science, we unlock the mysteries of the universe. Through data science we obtain a better understanding of our place in this world. Through data science, we can peer through God's eyes.
 
+<p align="center">
+![NASA's James Webb Telescope](https://cdn.mos.cms.futurecdn.net/z8sf5yaERm5hCoeAaikmSX-970-80.jpg.webp){width=70%}
+\
+**The James Webb Telescope, launched December 25, 2021 to study the early universe, star systems, and the origin of life**
+</p>
 ***
 
-##### Oba
+#### Miki Oba
 oba answer 1
 
 ***
@@ -43,29 +49,31 @@ oba answer 1
 ## Question 2: Cite at least one instance or application where data science was used and contributed on policymaking, day-to-day decisions, knowing market trends, and scientific researches.
 
 ***
-#### Group's Answers: {.tabset .tabset-fade .tabset-pills}
+### Group's Answers: {.tabset .tabset-fade .tabset-pills}
 
-##### Calpito
+#### Cymone Calpito
 calpito answer 2
 
 ***
 
-##### Casenas
+#### Carlson Casenas
 casenas answer 2
 
 ***
 
-##### de Leon
+#### Marion de Leon
 de leon answer 2
 
 ***
 
-##### Lorenzo
-lorenzo answer 2
+#### Jason Lorenzo
+Nature communicates through data. Through a comprehensive analysis of these data, the IPCC were able to release climate change reports [link] crucial for deciding the future of our planet and its inhabitants. Now, countries had made differing commitments, striking a balance between their economic, political, and moral standpoint. Hopefully, more and more people start to listen to data and the experts who study them. Nature calls us to be urgent.
+(add summary/plot of global warming)
+
 
 ***
 
-##### Oba
+#### Miki Oba
 oba answer 2
 
 ***
@@ -74,29 +82,29 @@ oba answer 2
 
 ***
 
-#### Group's Answers: {.tabset .tabset-fade .tabset-pills}
+### Group's Answers: {.tabset .tabset-fade .tabset-pills}
 
-##### Calpito
+#### Cymone Calpito
 calpito answer 3
 
 ***
 
-##### Casenas
+#### Carlson Casenas
 casenas answer 3
 
 ***
 
-##### de Leon
+#### Marion de Leon
 de leon answer 3
 
 ***
 
-##### Lorenzo
+#### Jason Lorenzo
 lorenzo answer 3
 
 ***
 
-##### Oba
+#### Miki Oba
 oba answer 3
 
 ***
