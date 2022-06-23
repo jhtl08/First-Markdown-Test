@@ -1,7 +1,7 @@
 ---
 title: "First Markdown Assignment"
 author: "Calpito, Casenas, de Leon, Lorenzo, Oba"
-date: '2022-06-23'
+date: 'June 23, 2022'
 output: 
   html_document:
       code_folding: "show"
@@ -43,7 +43,7 @@ output:
 ***
 
 #### Miki Oba
-oba answer 1
+>The study and analysis of data allows us to further visualize, identify, and understand many things in our world. Data might seem like statistics or numbers that only show a trend to some, but looking at it from different perspectives and thinking critically may lead to more findings and questions. How data is used and presented plays a big part in being more accessible and helpful to us.
 
 ***
 
@@ -58,7 +58,7 @@ calpito answer 2
 ***
 
 #### Carlson Casenas
->When I used to play a ton of video games, I used a statistical application to track my in game stats for games like Apex Legends, Valorant, CS:GO and many other games. This application is called https://blitz.gg/ . With the information present in this application, it has helped a multitude of players track their progress and their mastery on certain weapons. Which in turn helps players either play with their strengths or work on their weaknesses.
+>When I used to play a ton of video games, I used a statistical application to track my in game stats for games like Apex Legends, Valorant, CS:GO and many other games. This application is called [blitz.gg](https://blitz.gg/). With the information present in this application, it has helped a multitude of players track their progress and their mastery on certain weapons. Which in turn helps players either play with their strengths or work on their weaknesses.
 
 ***
 
@@ -70,7 +70,7 @@ calpito answer 2
 #### Jason Lorenzo
 >Nature communicates through data. Through a comprehensive analysis of these data, the IPCC were able to release [climate change reports](https://www.ipcc.ch/reports/) crucial for deciding the future of our planet and its inhabitants. Now, countries had made differing commitments, striking a balance between their economic, political, and moral standpoint. Hopefully, more and more people start to listen to data and the experts who study them. Nature calls us to be urgent.
 
-```{r fig.align="center", warning=FALSE, echo=FALSE, message=FALSE}
+```{r fig.align="center", warning=FALSE, message=FALSE}
 library(ggplot2)
 df <- read.csv("https://query.data.world/s/am4fth46ih4simnozstddx5qpvmqto", header=TRUE, stringsAsFactors=FALSE);
 ggplot(df, aes(x=X2014)) +
@@ -83,7 +83,7 @@ ggplot(df, aes(x=X2014)) +
 ***
 
 #### Miki Oba
-oba answer 2
+>Data science may be used in education in order to help increase the quality of education and performance of the students. By analyzing data related to the students, it is possible to identify the steps and actions that may benefit the students.
 
 ***
 
@@ -99,7 +99,7 @@ calpito answer 3
 ***
 
 #### Carlson Casenas
->In my first two weeks here in the Philippines, I noticed that it rained almost everyday. Aleast, it's been that way since I arrived. During the times that it rained, I never had an umbrella with me. It’s mostly my fault for not checking the weather forecast, but at most times I felt it was unpredictable. One data science topic that I think would be interesting to pursue, is how often we must bring an umbrella with us in the Philippines. We can track the times when it had rained in the Philippines with this website **weather forecast reports** (https://www.pagasa.dost.gov.ph/weather)  . From there we can create assumptions on when we need to take our umbrellas with us. The statistical methods that I will most likely use are Descriptive, Inferential, Associational methods.
+>In my first two weeks here in the Philippines, I noticed that it rained almost everyday. Aleast, it's been that way since I arrived. During the times that it rained, I never had an umbrella with me. It’s mostly my fault for not checking the weather forecast, but at most times I felt it was unpredictable. One data science topic that I think would be interesting to pursue, is how often we must bring an umbrella with us in the Philippines. We can track the times when it had rained in the Philippines with this website [**weather forecast reports**](https://www.pagasa.dost.gov.ph/weather)  . From there we can create assumptions on when we need to take our umbrellas with us. The statistical methods that I will most likely use are Descriptive, Inferential, Associational methods.
 
 
 ***
@@ -115,7 +115,7 @@ calpito answer 3
 ***
 
 #### Miki Oba
-oba answer 3
+>Social media is one of the most popular forms of entertainment in today’s world. However, it is not one without drawbacks. Social media can be addicting, and result in a great deal of negative effects on those affected by social media addiction. This is quite worrying, as the majority of the users of social media tend to be on the younger side. It is possible to look into data from surveys to be able to identify trends and relationships. An example of this may be related to which demographics are more likely to be affected by social media addiction. Through the use of predictive, inferential, and associational statistical methods, this may benefit a wide variety of people suffering from the effects of social media addiction.
 
 ***
 
