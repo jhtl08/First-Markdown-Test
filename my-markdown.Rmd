@@ -58,7 +58,7 @@ calpito answer 2
 ***
 
 #### Carlson Casenas
-casenas answer 2
+>When I used to play a ton of video games, I used a statistical application to track my in game stats for games like Apex Legends, Valorant, CS:GO and many other games. This application is called https://blitz.gg/ . With the information present in this application, it has helped a multitude of players track their progress and their mastery on certain weapons. Which in turn helps players either play with their strengths or work on their weaknesses.
 
 ***
 
@@ -99,7 +99,7 @@ calpito answer 3
 ***
 
 #### Carlson Casenas
->In my first two weeks here in the Philippines, I noticed that it rained almost everyday. Aleast, it's been that way since I arrived. During the times that it rained, I never had an umbrella with me. It’s mostly my fault for not checking the weather forecast, but at most times I felt it was unpredictable. One data science topic that I think would be interesting to pursue, is how often we must bring an umbrella with us in the Philippines. We can track the times when it had rained in the Philippines with this website **weather forecast reports** (https://www.pagasa.dost.gov.ph/weather). From there we can create assumptions on when we need to take our umbrellas with us. The statistical methods that I will most likely use are Descriptive, Inferential, Associational methods.
+>In my first two weeks here in the Philippines, I noticed that it rained almost everyday. Aleast, it's been that way since I arrived. During the times that it rained, I never had an umbrella with me. It’s mostly my fault for not checking the weather forecast, but at most times I felt it was unpredictable. One data science topic that I think would be interesting to pursue, is how often we must bring an umbrella with us in the Philippines. We can track the times when it had rained in the Philippines with this website **weather forecast reports** (https://www.pagasa.dost.gov.ph/weather)  . From there we can create assumptions on when we need to take our umbrellas with us. The statistical methods that I will most likely use are Descriptive, Inferential, Associational methods.
 
 
 ***
