@@ -67,9 +67,17 @@ de leon answer 2
 ***
 
 #### Jason Lorenzo
-Nature communicates through data. Through a comprehensive analysis of these data, the IPCC were able to release climate change reports [link] crucial for deciding the future of our planet and its inhabitants. Now, countries had made differing commitments, striking a balance between their economic, political, and moral standpoint. Hopefully, more and more people start to listen to data and the experts who study them. Nature calls us to be urgent.
-(add summary/plot of global warming)
+>Nature communicates through data. Through a comprehensive analysis of these data, the IPCC were able to release [climate change reports](https://www.ipcc.ch/reports/) crucial for deciding the future of our planet and its inhabitants. Now, countries had made differing commitments, striking a balance between their economic, political, and moral standpoint. Hopefully, more and more people start to listen to data and the experts who study them. Nature calls us to be urgent.
 
+```{r}
+library(ggplot2)
+df <- read.csv("https://query.data.world/s/am4fth46ih4simnozstddx5qpvmqto", header=TRUE, stringsAsFactors=FALSE);
+ggplot(df, aes(x=X2014)) +
+  geom_histogram() +
+  ggtitle("CO2 Emissions Per Capita of Countries in 2014") +
+  xlab("Countries in Alphabetical Order") +
+  ylab("CO2 (ton) Per Capita")
+```
 
 ***
 
