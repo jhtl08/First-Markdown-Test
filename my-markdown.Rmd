@@ -43,7 +43,7 @@ output:
 ***
 
 #### Miki Oba
-oba answer 1
+>The study and analysis of data allows us to further visualize, identify, and understand many things in our world. Data might seem like statistics or numbers that only show a trend to some, but looking at it from different perspectives and thinking critically may lead to more findings and questions. How data is used and presented plays a big part in being more accessible and helpful to us.
 
 ***
 
@@ -83,7 +83,7 @@ ggplot(df, aes(x=X2014)) +
 ***
 
 #### Miki Oba
-oba answer 2
+>Data science may be used in education in order to help increase the quality of education and performance of the students. By analyzing data related to the students, it is possible to identify the steps and actions that may benefit the students.
 
 ***
 
@@ -115,7 +115,7 @@ calpito answer 3
 ***
 
 #### Miki Oba
-oba answer 3
+>Social media is one of the most popular forms of entertainment in today’s world. However, it is not one without drawbacks. Social media can be addicting, and result in a great deal of negative effects on those affected by social media addiction. This is quite worrying, as the majority of the users of social media tend to be on the younger side. It is possible to look into data from surveys to be able to identify trends and relationships. An example of this may be related to which demographics are more likely to be affected by social media addiction. Through the use of predictive, inferential, and associational statistical methods, this may benefit a wide variety of people suffering from the effects of social media addiction.
 
 ***
 
