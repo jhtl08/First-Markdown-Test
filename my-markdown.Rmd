@@ -27,7 +27,7 @@ casenas answer 1
 ***
 
 #### Marion de Leon
-de leon answer 1
+de leon answer 1    
 
 ***
 
@@ -57,7 +57,7 @@ calpito answer 2
 ***
 
 #### Carlson Casenas
-casenas answer 2
+>If we observe closely, we can retrieve data for just about anything. Even weird things such as how many times a jeepney makes its rounds, or how likely someone will purchase something useless just because it is on sale. Once we study and analyze this data we can create something useful and meaningful. Because of data scientists we have the luxury of having access to a myriad of information that is applicable to our professions, hobbies, and our daily lives.
 
 ***
 
