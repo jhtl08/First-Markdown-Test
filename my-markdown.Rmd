@@ -17,7 +17,7 @@ output:
 ### Group's Answers: {.tabset .tabset-fade .tabset-pills}
 
 #### Cymone Calpito
-calpito answer 1
+>Our lives depend a lot on data. The more we study and understand a given set of data, as a response, we can decide on a more accurate or appropriate course of action.
 
 ***
 
