@@ -28,7 +28,7 @@ output:
 ***
 
 #### Marion de Leon
-de leon answer 1    
+>Data science integrates a variety of historical data to predict outcomes based on explanations of past events. If we try to explore these data, it will not only predict outcomes but will also lead to answering different data relationships that will help a business to understand the dynamics of consumer behavior and reveal various data links.  
 
 ***
 
@@ -63,7 +63,7 @@ calpito answer 2
 ***
 
 #### Marion de Leon
-de leon answer 2
+>Online shopping application boost customer acquisition, retention, and increase supply chain efficiency.
 
 ***
 
@@ -105,7 +105,7 @@ calpito answer 3
 ***
 
 #### Marion de Leon
-de leon answer 3
+>Farmers' complaints over their unsold crops in the midst of the pandemic have frequently been reported in the press. Crops were either not transported, not sold, or were simply thrown away. Their time, money, and efforts were all squandered as a result of the supply chain's ineffective management. Despite the fact that these crops were wasted elsewhere, the price of similar crops increased significantly as a result of the scarcity of those crops in another area. The location of crops, planting and harvesting seasons, as well as the quantity of crops that can be grown in a particular location are valuable data that could help to prevent the reoccurrence of this situation. Data can be supplied by the crop producers and simply need to be gathered and analyzed in order to forecast and manage the distribution prior the harvesting time. Data can be used for strategic planning of the Department of Agriculture. Additionally, it will forecast when a given crop will be in excess in a particular place and needs to be distributed to areas where there is a supply shortfall. From this, the Department of Agriculture may learn when it is necessary to import or export the same goods. The Department of Agriculture, farmers, traders, and product consumers would all benefit from it. The statistical methods that I might use are descriptive, associational, predictive, and causal statistical methods.
 
 ***
 
