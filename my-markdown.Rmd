@@ -53,7 +53,7 @@ output:
 ### Group's Answers: {.tabset .tabset-fade .tabset-pills}
 
 #### Cymone Calpito
-calpito answer 2
+>Various entertainment platforms such as Spotify, Netflix, Steam, and many more have employed data science to provide recommendations and further attract or improve the experience of users.
 
 ***
 
@@ -94,7 +94,7 @@ ggplot(df, aes(x=X2014)) +
 ### Group's Answers: {.tabset .tabset-fade .tabset-pills}
 
 #### Cymone Calpito
-calpito answer 3
+>I am quite interested in the overall processes involved in games such as development, testing or maintenance. With the help of data science, games can be made more balanced and refined in various aspects such as its main systems, interface, or to provide a more specific example, tuning in-game characters' stats or skills. One could say that the gaming industry is growing at a rapid rate and therefore, this data science concept is very much relevant and significant to both occurring and future gamers. However, a disadvantage for now will be the availability of data since I think only gaming companies and developers may have the access to such data. Descriptive and inferential statistical methods will be helpful in this field. I think the predictive method may also be of help but I have not fully grasped how it can be used.
 
 ***
 
